@@ -17,3 +17,7 @@ nav{
     display: none !important;
     cursor: pointer;
 }
+
+.text-justify{
+    text-align: justify;
+}
